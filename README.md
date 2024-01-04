@@ -1,2 +1,3 @@
 # Chat-Livros
-Chat com conversa
+Chat com conversa entre pessoas
+
